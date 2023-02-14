@@ -6,7 +6,7 @@ A aplicação consiste num gerador dinâmico de QR Code que permite o acesso à 
 
 <hr>
 <p align="center">
-<img width="1000px" src="https://github.com/ChristopherHauschild/qr-code-generator-vue.js" />
+<img width="1000px" src="https://github.com/ChristopherHauschild/qr-code-generator-vue.js/raw/master/QRC.gif?raw=true" />
 </p>
 <hr>
 
