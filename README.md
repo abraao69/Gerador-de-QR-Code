@@ -6,7 +6,7 @@ A aplicação consiste num gerador dinâmico de QR Code que permite o acesso à 
 
 <hr>
 <p align="center">
-<img width="1000px" src="https://github.com/abraao69?tab=repositories" />
+<img width="1000px" src="https://github.com/ChristopherHauschild/qr-code-generator-vue.js" />
 </p>
 <hr>
 
@@ -18,6 +18,7 @@ A aplicação consiste num gerador dinâmico de QR Code que permite o acesso à 
   <li> CSS </li>
   <li> JavaScript </li>
 </ul>
+
 
 O projeto foi desenvolvido em Vue.js por fazer parte do módulo "Vue", de maneira que fosse possível aprofundar os conhecimentos neste framework.
 
